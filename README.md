@@ -1,8 +1,10 @@
 # divithai
 Add Thai font to Divi theme/plugin   - เพิ่มฟ้อนสำหรับ Divi WordPress
 
+อย่าลืม Activate Divi ก่อนนะครับ
 
-=== Divi Thai  ===
+
+======= Divi Thai  ========
 Contributors: koftkoft
 Tags: divi,thai,fonts,font
 Requires at least: 4.5
